@@ -1,0 +1,77 @@
+#myfamily{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+*{
+    background-color:rgb(245, 201, 246);
+}
+
+.father {
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: 6px solid black;
+    
+
+}
+.mother{
+    width: 150px;
+    height:150px;
+    margin-left: 20px;
+    border: 6px solid black;
+
+
+}
+.brother{
+    width: 150px;
+    height:150px;
+    margin-left: 20px;
+    border: 6px solid black;
+
+}
+
+.myself{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: 6px solid black;
+
+}
+
+
+    #name{
+        color: red;
+        
+    }
+    #age{
+        color: blue;
+
+    }
+    #dob{
+        color: green;
+    }
+    hr {
+        border-style: none;
+        border-top-style:dotted; 
+        border-color: blue;
+        border-width: 2px;
+        width:100%;
+     }
+     .myfaimly{
+        font-family: 'Dancing Script', cursive;;
+     }
+     #father
+    {
+        font-family: 'Courier New', Courier, monospace;
+     }
+     #mother{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #brother{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #myself{
+        font-family: 'Courier New', Courier, monospace;
+    }
+     
